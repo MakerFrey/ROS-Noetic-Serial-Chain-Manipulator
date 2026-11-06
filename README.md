@@ -44,13 +44,16 @@ This shows that the model has six links (including `base_link`) and five joints.
 
 
 ## Download Source URDF Model
+
 ```bash
 git clone https://github.com/nfry25/ROS-Noetic-Serial-Chain-Manipulator.git
 
 cd ROS-Noetic-Serial-Chain-Manipulator
+
 ```
 
 ## Validate Source URDF 
+
 ```bash
 source /opt/ros/noetic/setup.bash
 sudo apt install libirdfoom-tools -y
@@ -119,7 +122,6 @@ Ensure RViz configurations are set to the following to ensure the robot is able 
 
 For inspecting the joints the revolute joints and prismatic joint individually, utilize the joint slider GUI.
 
-
 ## Resources
 
 Biggest learning resource, especially for DH Parameters, has been Addison Sears-Collins' Automatic Addison tutorials online. I highly recommend you visit his website and look at the provided tutorials by him:
@@ -127,13 +129,11 @@ Biggest learning resource, especially for DH Parameters, has been Addison Sears-
 - [How to find DH Parameter Tables](https://automaticaddison.com/how-to-find-denavit-hartenberg-parameter-tables/)
 - [DH Review for Robotic Arms](https://automaticaddison.com/review-of-denavit-hartenberg-for-robotic-arms/)
 
-
-
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
 
+## Contributors
 
-## Author
-
-Nicolas Frey
+[Nicolas Frey](https://github.com/MakerFrey)
+[Jack Crawford](https://github.com/jcrawford14200)
