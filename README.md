@@ -135,5 +135,5 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Contributors
 
-[Nicolas Frey](https://github.com/MakerFrey)
-[Jack Crawford](https://github.com/jcrawford14200)
+- [Nicolas Frey](https://github.com/MakerFrey)
+- [Jack Crawford](https://github.com/jcrawford14200)
