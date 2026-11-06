@@ -6,10 +6,9 @@ This repository uses selected documentation to cover the steps of going from a k
 
 ## Preview
 
-[Serial Chain Manipulator Kinematic Diagram](docs/imgs/fiveJointSerialArm.png)
+![Serial Chain Manipulator Kinematic Diagram](docs/imgs/fiveJointSerialArm.png)
 
-
-[Serial Chain Manipulator in RViz](docs/imgs/rvizSerialArm.png)
+![Serial Chain Manipulator RViz](docs/imgs/rvizSerialArm.png)
 
 ## Development Environment
 
